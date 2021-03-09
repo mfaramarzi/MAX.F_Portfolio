@@ -1,4 +1,4 @@
-# Masoud.F_Portfolio
+# MASOUD FARAMARZI Portfolio
 
 ## [Road Damage Detection and Classification Using Deep Neural Networks (YOLOv4) with Smartphone Images](https://github.com/mfaramarzi/Masoud-Road-Damage-Detection)
 
