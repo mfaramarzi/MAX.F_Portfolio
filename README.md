@@ -1,5 +1,5 @@
 # MASOUD FARAMARZI Portfolio
-mfaramarzi@uri.edu | Watertown, MA, 02472 ● www.linkedin.com/in/masoud-faramarzi
+mfaramarzi@uri.edu | Watertown, MA, 02472 | www.linkedin.com/in/masoud-faramarzi
 
 ## [Road Damage Detection and Classification Using Deep Neural Networks (YOLOv4) with Smartphone Images](https://www.researchgate.net/profile/M_Faramarzi/publication/342179672_Road_Damage_Detection_and_Classification_Using_Deep_Neural_Networks_YOLOv4_with_Smartphone_Images/links/5f15fe754585151299ab4f38/Road-Damage-Detection-and-Classification-Using-Deep-Neural-Networks-YOLOv4-with-Smartphone-Images.pdf)
 
