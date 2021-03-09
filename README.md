@@ -6,6 +6,8 @@ In this study TensorFlow implementation of tiny-YOLOv2, Dark-net Neural Networks
 
 ![Object Detection Using Trained YOLOv3](/Images/ROAD.PNG)
 
+![mAP and Loss vs Iterations (Tiny-YOLOv3)](/Images/Training.PNG)
+
 ## [Data Science Projects](https://github.com/mfaramarzi/Data_Science_Projects)
 In the course of Programming for Data Science with Dr. Sara Brown, I learnt different concept and techniques of Data Science and implemented them in projects. Those topics included:
 
