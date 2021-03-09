@@ -26,4 +26,5 @@ In the course of Programming for Data Science with Dr. Sara Brown, I learnt diff
 * [Project 0 : Writing a paper: "Milestones in the History of Computing"](https://github.com/mfaramarzi/Programming_with_C-/blob/main/Assignment_0/CSC211_-_Assignment_0__1_.pdf)
 * [Project 1 : Algorithms, Problem Design, Pseudo-code, branching,](https://github.com/mfaramarzi/Programming_with_C-/tree/main/Assignment_1)
 * [Project 2 : loops and nested loops, Using the Debugger, functions, Arrays, Strings (C style strings and string objects) ](https://github.com/mfaramarzi/Programming_with_C-/tree/main/assignment2)
+
 ![](https://github.com/mfaramarzi/Masoud.F_Portfolio/blob/main/Images/CPP.jpg)
