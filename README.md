@@ -15,10 +15,10 @@ As could be seen in the Figure below, road damages could be detected with accept
 In the course of Programming for Data Science with Dr. Sara Brown, I learnt different concept and techniques of Data Science and implemented them in projects. Those topics included:
 
 * [Accessing Data](https://github.com/mfaramarzi/Data_Science_Projects/blob/main/02-accessing-data-mfaramarzi-main/02-accessing-data-mfaramarzi-main/loading_data.ipynb)
-* [Exploratory Data Analysis](https://github.com/mfaramarzi/Data_Science_Projects/tree/main/03-exploratory-data-analysis-mfaramarzi-main/03-exploratory-data-analysis-mfaramarzi-main)
+* [Exploratory Data Analysis](https://github.com/mfaramarzi/Data_Science_Projects/blob/main/03-exploratory-data-analysis-mfaramarzi-main/03-exploratory-data-analysis-mfaramarzi-main/d2_FIFA.ipynb.ipynb)
 * [Preparing Data]()
 * [Building Datasets]()
-* [Naive Bayes](https://github.com/mfaramarzi/Data_Science_Projects/tree/main/06-naive-bayes-main/06-naive-bayes-main)
+* [Naive Bayes](https://github.com/mfaramarzi/Data_Science_Projects/blob/main/06-naive-bayes-main/06-naive-bayes-main/understanding_classification.ipynb)
 * [Decision Trees](https://github.com/mfaramarzi/Data_Science_Projects/tree/main/07-decision-trees-mfaramarzi-main/07-decision-trees-mfaramarzi-main)
 * [Regression](https://github.com/mfaramarzi/Data_Science_Projects/tree/main/08-regression-mfaramarzi-main/08-regression-mfaramarzi-main)
 * [Clustering](https://github.com/mfaramarzi/Data_Science_Projects/tree/main/09-clustering-mfaramarzi-main/09-clustering-mfaramarzi-main)
