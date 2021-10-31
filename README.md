@@ -31,6 +31,9 @@ In the course of Programming for Data Science with Dr. Sara Brown, I learnt diff
 ## [Programming with C++](https://github.com/mfaramarzi/Programming_with_C-)
 * [Project 0 : Writing a paper: "Milestones in the History of Computing"](https://github.com/mfaramarzi/Programming_with_C-/blob/main/Assignment_0/CSC211_-_Assignment_0__1_.pdf)
 * [Project 1 : Algorithms, Problem Design, Pseudo-code, branching,](https://github.com/mfaramarzi/Programming_with_C-/tree/main/Assignment_1)
-* [Project 2 : loops and nested loops, Using the Debugger, functions, Arrays, Strings (C style strings and string objects) ](https://github.com/mfaramarzi/Programming_with_C-/tree/main/assignment2)
+* [Project 2 : loops and nested loops, Using the Debugger, functions, Arrays, Strings (C style strings and string objects) ](https://github.com/mfaramarzi/CSC211_Programming_CPP/tree/main/assignment_2)
+* [Project 3 : Algorithms, Problem Design, Pseudo-code, branching,](https://github.com/mfaramarzi/CSC211_Programming_CPP/tree/main/Assignment3)
+* [Project 4 : functions and multidimensional arrays) ](https://github.com/mfaramarzi/CSC211_Programming_CPP/tree/main/Assignment_4)
+* [Project 5 : classes, backtracking , and reading documentation](https://github.com/mfaramarzi/CSC211_Programming_CPP/tree/main/Assignment_5)
 
 
