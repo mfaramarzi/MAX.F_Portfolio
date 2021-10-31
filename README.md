@@ -14,16 +14,18 @@ As could be seen in the Figure below, road damages could be detected with accept
 ## [Data Science Projects](https://github.com/mfaramarzi/Data_Science_Projects)
 In the course of Programming for Data Science with Dr. Sara Brown, I learnt different concept and techniques of Data Science and implemented them in projects. Those topics included:
 
-* [Assignment1_Python_Review](https://github.com/mfaramarzi/CSC310_Data_Science_Intro/blob/main/Assignment1_Python_Review/portfolio.pdf)
-* [Exploratory Data Analysis](https://github.com/mfaramarzi/Data_Science_Projects/blob/main/03-exploratory-data-analysis-mfaramarzi-main/03-exploratory-data-analysis-mfaramarzi-main/d2_FIFA.ipynb.ipynb)
-* [Preparing Data]()
-* [Building Datasets]()
-* [Naive Bayes](https://github.com/mfaramarzi/Data_Science_Projects/blob/main/06-naive-bayes-main/06-naive-bayes-main/understanding_classification.ipynb)
-* [Decision Trees](https://github.com/mfaramarzi/Data_Science_Projects/tree/main/07-decision-trees-mfaramarzi-main/07-decision-trees-mfaramarzi-main)
-* [Regression](https://github.com/mfaramarzi/Data_Science_Projects/tree/main/08-regression-mfaramarzi-main/08-regression-mfaramarzi-main)
-* [Clustering](https://github.com/mfaramarzi/Data_Science_Projects/tree/main/09-clustering-mfaramarzi-main/09-clustering-mfaramarzi-main)
-* [Optimizing](https://github.com/mfaramarzi/Data_Science_Projects/tree/main/10-optimizing-models-mfaramarzi-main/10-optimizing-models-mfaramarzi-main)
-* [Model Selection](https://github.com/mfaramarzi/Data_Science_Projects/tree/main/11-model-selection-mfaramarzi-main/11-model-selection-mfaramarzi-main)
+* [Assignment1_Python Grdader](https://github.com/mfaramarzi/CSC310_Data_Science_Intro/blob/main/Assignment1_Python_Review/portfolio.pdf)
+* [Assignment2_Accessing_Data](https://github.com/mfaramarzi/CSC310_Data_Science_Intro/tree/main/Assignment2_Accessing_Data)
+* [Assignment3_EAD](https://github.com/mfaramarzi/CSC310_Data_Science_Intro/tree/main/Assignment3_EAD)
+* [Assignment4-preparing_Data](https://github.com/mfaramarzi/CSC310_Data_Science_Intro/tree/main/Assignment4-preparing_Data)
+* [Assignment5_Data_Construction](https://github.com/mfaramarzi/CSC310_Data_Science_Intro/tree/main/Assignment5_Data_Construction)
+* [Assignment6-Classification](https://github.com/mfaramarzi/CSC310_Data_Science_Intro/tree/main/Assignment6-Classification)
+* [Assignment7-Decision-Trees](https://github.com/mfaramarzi/CSC310_Data_Science_Intro/tree/main/Assignment7-Decision-Trees)
+* [Assignment8-regression](https://github.com/mfaramarzi/CSC310_Data_Science_Intro/tree/main/Assignment8-regression)
+* [Assignment9-Clustering](https://github.com/mfaramarzi/CSC310_Data_Science_Intro/tree/main/Assignment9-Clustering)
+* [Assignment10-Optimizing-Models](https://github.com/mfaramarzi/CSC310_Data_Science_Intro/tree/main/Assignment10-Optimizing-Models)
+* [Assignment9-Model Selection](https://github.com/mfaramarzi/CSC310_Data_Science_Intro/tree/main/Assignment11-Clustering)
+* [Assignment12_NLP](https://github.com/mfaramarzi/CSC310_Data_Science_Intro/tree/main/Assignment12_NLP)
 
 
 ## [Programming with C++](https://github.com/mfaramarzi/Programming_with_C-)
