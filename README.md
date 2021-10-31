@@ -11,7 +11,7 @@ As could be seen in the Figure below, road damages could be detected with accept
 ![Object Detection Using Trained YOLOv3](/Images/ROAD.PNG)
 
 
-## [Data Science Projects](https://github.com/mfaramarzi/Data_Science_Projects)
+## [Data Science Projects](https://github.com/mfaramarzi/CSC310_Data_Science_Intro)
 In the course of Programming for Data Science with Dr. Sara Brown, I learnt different concept and techniques of Data Science and implemented them in projects. Those topics included:
 
 * [Python Grdader](https://github.com/mfaramarzi/CSC310_Data_Science_Intro/blob/main/Assignment1_Python_Review/portfolio.pdf)
@@ -28,7 +28,7 @@ In the course of Programming for Data Science with Dr. Sara Brown, I learnt diff
 * [NLP](https://github.com/mfaramarzi/CSC310_Data_Science_Intro/tree/main/Assignment12_NLP)
 
 
-## [Programming with C++](https://github.com/mfaramarzi/Programming_with_C-)
+## [Programming with C++](https://github.com/mfaramarzi/CSC211_Programming_CPP)
 * [Project 0 : Writing a paper: "Milestones in the History of Computing"](https://github.com/mfaramarzi/Programming_with_C-/blob/main/Assignment_0/CSC211_-_Assignment_0__1_.pdf)
 * [Project 1 : Algorithms, Problem Design, Pseudo-code, branching,](https://github.com/mfaramarzi/Programming_with_C-/tree/main/Assignment_1)
 * [Project 2 : Loops and Nested loops, Using the Debugger, Functions, Arrays, Strings (C style strings and string objects) ](https://github.com/mfaramarzi/CSC211_Programming_CPP/tree/main/assignment_2)
@@ -37,6 +37,9 @@ In the course of Programming for Data Science with Dr. Sara Brown, I learnt diff
 * [Project 5 : Classes, Backtracking , and Reading Documentation](https://github.com/mfaramarzi/CSC211_Programming_CPP/tree/main/Assignment_5)
 
 
-## [Data-Structure](https://github.com/mfaramarzi/Programming_with_C-)
+## [Data-Structure](https://github.com/mfaramarzi/CSC212_Data-Structure)
 * [C++ Review : Image_Binarization Project](https://github.com/mfaramarzi/CSC212_Data-Structure/tree/main/HW1_Image_Binarization)
 * [ Classes And Dynamic Arrays In C++ : In the Context Of A Maze Generation Application](https://github.com/mfaramarzi/CSC212_Data-Structure/tree/main/HW2_Maze)
+
+## [Machine Learning](https://github.com/mfaramarzi/Programming_with_C-)
+* [KNN](https://github.com/mfaramarzi/CSC461_Machine-Learning/tree/main/HW1_KNN)
