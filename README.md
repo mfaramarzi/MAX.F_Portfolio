@@ -14,7 +14,7 @@ As could be seen in the Figure below, road damages could be detected with accept
 ## [Data Science Projects](https://github.com/mfaramarzi/Data_Science_Projects)
 In the course of Programming for Data Science with Dr. Sara Brown, I learnt different concept and techniques of Data Science and implemented them in projects. Those topics included:
 
-* [Accessing Data](https://github.com/mfaramarzi/Data_Science_Projects/blob/main/02-accessing-data-mfaramarzi-main/02-accessing-data-mfaramarzi-main/loading_data.ipynb)
+* [Assignment1_Python_Review](https://github.com/mfaramarzi/CSC310_Data_Science_Intro/blob/main/Assignment1_Python_Review/portfolio.pdf)
 * [Exploratory Data Analysis](https://github.com/mfaramarzi/Data_Science_Projects/blob/main/03-exploratory-data-analysis-mfaramarzi-main/03-exploratory-data-analysis-mfaramarzi-main/d2_FIFA.ipynb.ipynb)
 * [Preparing Data]()
 * [Building Datasets]()
