@@ -12,7 +12,7 @@ As could be seen in the Figure below, road damages could be detected with accept
 ![Object Detection Using Trained YOLOv3](/Images/ROAD.PNG)
 
 
-## [Data Science Projects](https://github.com/mfaramarzi/CSC310_Data_Science_Intro)
+# [Data Science](https://github.com/mfaramarzi/CSC310_Data_Science_Intro)
 In the course of Programming for Data Science with Dr. Sara Brown, I learnt different concept and techniques of Data Science and implemented them in projects. Those topics included:
 
 * [Python Grdader](https://github.com/mfaramarzi/CSC310_Data_Science_Intro/blob/main/Assignment1_Python_Review/portfolio.pdf)
