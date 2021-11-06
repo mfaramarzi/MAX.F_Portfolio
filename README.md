@@ -43,3 +43,4 @@ In the course of Programming for Data Science with Dr. Sara Brown, I learnt diff
 
 ## [Machine Learning](https://github.com/mfaramarzi/Programming_with_C-)
 * [KNN](https://github.com/mfaramarzi/CSC461_Machine-Learning/tree/main/HW1_KNN)
+* [Boosting](https://github.com/mfaramarzi/CSC461_Machine-Learning/tree/main/HW3_Boosting)
