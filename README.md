@@ -42,5 +42,7 @@ In the course of Programming for Data Science with Dr. Sara Brown, I learnt diff
 * [ Classes And Dynamic Arrays In C++ : In the Context Of A Maze Generation Application](https://github.com/mfaramarzi/CSC212_Data-Structure/tree/main/HW2_Maze)
 
 ## [Machine Learning](https://github.com/mfaramarzi/Programming_with_C-)
+As the project for this course, I have been working on Using NLP to conduct a sentiment analysis on Covid 19-tweets.
+In the course of Machine Learning I have been learning about ML techniques such as Supervised Learning, Decision Trees, Model Selection, Bagging, Boosting, Linear Regression and Classification, Gradient Descent, SVM and Nueral Network. and so on.  
 * [KNN](https://github.com/mfaramarzi/CSC461_Machine-Learning/tree/main/HW1_KNN)
 * [Boosting](https://github.com/mfaramarzi/CSC461_Machine-Learning/tree/main/HW3_Boosting)
