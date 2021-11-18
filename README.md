@@ -3,11 +3,11 @@ mfaramarzi@uri.edu | Watertown, MA, 02472 | www.linkedin.com/in/masoud-faramarzi
 
 ## [Deep Learning](https://www.researchgate.net/profile/M_Faramarzi/publication/342179672_Road_Damage_Detection_and_Classification_Using_Deep_Neural_Networks_YOLOv4_with_Smartphone_Images/links/5f15fe754585151299ab4f38/Road-Damage-Detection-and-Classification-Using-Deep-Neural-Networks-YOLOv4-with-Smartphone-Images.pdf)
 
-**Skills :** CNN, RNN, NLP, Object Classification, Detection and Segmentation, Deep Learning Libraries. 
+### Skills : CNN, RNN, NLP, Object Classification, Detection and Segmentation, Deep Learning Libraries. 
 
-**Major Projects :** 
+### Major Projects :
 
-1. Object Detection and Classification Using Deep Neural Networks (YOLOv4)
+**1. Object Detection and Classification Using Deep Neural Networks (YOLOv4)**
 
 In this project a deep Neural Network algorithm (YOLOv4) was applied to 9,053 road images to train and test road damage detection, classification and segmentation models. 
 
@@ -17,7 +17,7 @@ In this project a deep Neural Network algorithm (YOLOv4) was applied to 9,053 ro
 
 
 
-2. Using NLP and DNN to conduct a sentiment analysis on Covid 19-tweets (ongoing). 
+**2. Using NLP and DNN to conduct a sentiment analysis on Covid 19-tweets (ongoing). **
 
 ## [Data Science ](https://github.com/mfaramarzi/CSC310_Data_Science_Intro)
 
