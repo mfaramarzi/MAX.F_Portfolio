@@ -18,6 +18,8 @@ In this project a deep Neural Network algorithm (YOLOv4) was applied to 9,053 ro
 
 [**2. Using NLP and DNN to conduct a sentiment analysis on Covid 19-tweets (ongoing)**](https://github.com/mfaramarzi/CSC461_Machine-Learning/tree/main/NLP-Tweets)
 
+
+
 ## [Data Science ](https://github.com/mfaramarzi/CSC310_Data_Science_Intro)
 
 ### Skills :
@@ -38,6 +40,7 @@ Process, Access, Prepare, Summarize, Visualize, Construct, Classification, Regre
 * [NLP](https://github.com/mfaramarzi/CSC310_Data_Science_Intro/tree/main/Assignment12_NLP)
 
 
+
 ## [Programming with C++ ](https://github.com/mfaramarzi/CSC211_Programming_CPP)
 
  ### Skills :
@@ -52,6 +55,7 @@ Process, Access, Prepare, Summarize, Visualize, Construct, Classification, Regre
 * [Project 5 : Classes, Backtracking , and Reading Documentation](https://github.com/mfaramarzi/CSC211_Programming_CPP/tree/main/Assignment_5)
 
 
+
 ## [Data-Structure ](https://github.com/mfaramarzi/CSC212_Data-Structure)
 
 ### Skills :
@@ -64,7 +68,9 @@ computational cost calculations, stacks, queues, Linked List, trees, graphs.
 * [C++ Review : Image_Binarization Project](https://github.com/mfaramarzi/CSC212_Data-Structure/tree/main/HW1_Image_Binarization)
 * [ Classes And Dynamic Arrays In C++ : In the Context Of A Maze Generation Application](https://github.com/mfaramarzi/CSC212_Data-Structure/tree/main/HW2_Maze)
 
-## [Machine Learning - Fall 2021](https://github.com/mfaramarzi/Programming_with_C-)
+
+
+## [Machine Learning ](https://github.com/mfaramarzi/Programming_with_C-)
 
 ### Skills :
 Supervised Learning, Decision Trees, Model Selection, Bagging, Boosting, Linear Regression/Classification, Gradient Descent, SVM and Nueral Network.  
