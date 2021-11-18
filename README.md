@@ -70,7 +70,7 @@ Implementation of K-D Tree data structure, to read data from an input text file 
 Supervised Learning, Decision Trees, Model Selection, Bagging, Boosting, Linear Regression/Classification, Gradient Descent, SVM and Nueral Network.  
 
 ### Major Project :
-Using NLP to conduct a sentiment analysis on Covid 19-tweets (ongoing). 
+[**Using NLP to conduct a sentiment analysis on Covid 19-tweets (ongoing)**](https://github.com/mfaramarzi/CSC212-KdTree-lementation)
 
 ### Minor Projects :
 
