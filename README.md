@@ -46,6 +46,10 @@ Process, Access, Prepare, Summarize, Visualize, Construct, Classification, Regre
  ### Skills :
  Write programs, data represention in memory (stack/heap), multi-dimensional arrays/vectors, decomposing problems and develop abstractions,OOP concepts (e.g., objects, classes, encapsulation, polymorphism, and inheritance).
  
+ 
+### Major Project :
+Developing Python programs, for Auto-Grading Server
+
  ### Minor Projects :
 * [Project 0 : Writing a paper: "Milestones in the History of Computing"](https://github.com/mfaramarzi/Programming_with_C-/blob/main/Assignment_0/CSC211_-_Assignment_0__1_.pdf)
 * [Project 1 : Algorithms, Problem Design, Pseudo-code, branching,](https://github.com/mfaramarzi/Programming_with_C-/tree/main/Assignment_1)
