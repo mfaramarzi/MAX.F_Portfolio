@@ -44,6 +44,7 @@ stacks, queues, multi-dimensional arrays, trees, graphs, etc.
 
 ## [Machine Learning - Fall 2021](https://github.com/mfaramarzi/Programming_with_C-)
 As the project for this course, I have been working on Using NLP to conduct a sentiment analysis on Covid 19-tweets. 
+
 **Methods :** Supervised Learning, Decision Trees, Model Selection, Bagging, Boosting, Linear Regression/Classification, Gradient Descent, SVM and Nueral Network.  
 * [KNN](https://github.com/mfaramarzi/CSC461_Machine-Learning/tree/main/HW1_KNN)
 * [Boosting](https://github.com/mfaramarzi/CSC461_Machine-Learning/tree/main/HW3_Boosting)
