@@ -12,8 +12,9 @@ As could be seen in the Figure below, road damages could be detected with accept
 
 
 ## [Data Science](https://github.com/mfaramarzi/CSC310_Data_Science_Intro)
-In the course of Programming for Data Science with Dr. Sara Brown, I learnt different concept and techniques of Data Science and implemented them in projects. Those topics included:
 
+**Skills :** Process, Access, Prepare, Summarize, Visualize, Construct, Classification, Regression, Clustering, Optimize, Unstructured Data 
+**Covered Topics :** Loading data, Exploratory Data Analysis, Data Cleaning, Databases, Merging DataFrames, Modeling, Naive Bayes, classification performance metrics, decision trees, cross validation, Regression, Clustering, SVM, parameter tuning, KNN, Model comparison, Text Analysis, Topic Modeling, Deep Learning.
 * [Python Grdader](https://github.com/mfaramarzi/CSC310_Data_Science_Intro/blob/main/Assignment1_Python_Review/portfolio.pdf)
 * [Accessing_Data](https://github.com/mfaramarzi/CSC310_Data_Science_Intro/tree/main/Assignment2_Accessing_Data)
 * [EAD](https://github.com/mfaramarzi/CSC310_Data_Science_Intro/tree/main/Assignment3_EAD)
@@ -38,7 +39,9 @@ In the course of Programming for Data Science with Dr. Sara Brown, I learnt diff
 
 
 ## [Data-Structure - Fall 2021](https://github.com/mfaramarzi/CSC212_Data-Structure)
-stacks, queues, multi-dimensional arrays, trees, graphs, etc.
+
+As the project in this course, I have been working on implementation of K-D Tree data structure, to read data from an input text file and do operations such as insert and search. 
+**Methods :** stacks, queues, multi-dimensional arrays, trees, graphs, etc.
 * [C++ Review : Image_Binarization Project](https://github.com/mfaramarzi/CSC212_Data-Structure/tree/main/HW1_Image_Binarization)
 * [ Classes And Dynamic Arrays In C++ : In the Context Of A Maze Generation Application](https://github.com/mfaramarzi/CSC212_Data-Structure/tree/main/HW2_Maze)
 
