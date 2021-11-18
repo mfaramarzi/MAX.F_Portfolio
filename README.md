@@ -22,9 +22,10 @@ In this project a deep Neural Network algorithm (YOLOv4) was applied to 9,053 ro
 
 ## [Data Science ](https://github.com/mfaramarzi/CSC310_Data_Science_Intro)
 
-**Skills :** Process, Access, Prepare, Summarize, Visualize, Construct, Classification, Regression, Clustering, Optimize, Unstructured Data ( Loading data, Exploratory Data Analysis, Data Cleaning, Databases, Merging DataFrames, Modeling, Naive Bayes, classification performance metrics, decision trees, cross validation, Regression, Clustering, SVM, parameter tuning, KNN, Model comparison, Text Analysis, Topic Modeling, Deep Learning).
+### Skills :
+Process, Access, Prepare, Summarize, Visualize, Construct, Classification, Regression, Clustering, Optimize, Unstructured Data ( Loading data, Exploratory Data Analysis, Data Cleaning, Databases, Merging DataFrames, Modeling, Naive Bayes, classification performance metrics, decision trees, cross validation, Regression, Clustering, SVM, parameter tuning, KNN, Model comparison, Text Analysis, Topic Modeling, Deep Learning).
 
-**Minor Projects :** 
+### Minor Projects :
 * [Python Grdader](https://github.com/mfaramarzi/CSC310_Data_Science_Intro/blob/main/Assignment1_Python_Review/portfolio.pdf)
 * [Accessing_Data](https://github.com/mfaramarzi/CSC310_Data_Science_Intro/tree/main/Assignment2_Accessing_Data)
 * [EAD](https://github.com/mfaramarzi/CSC310_Data_Science_Intro/tree/main/Assignment3_EAD)
@@ -41,9 +42,10 @@ In this project a deep Neural Network algorithm (YOLOv4) was applied to 9,053 ro
 
 ## [Programming with C++ ](https://github.com/mfaramarzi/CSC211_Programming_CPP)
 
- **Skills :** Write programs, data represention in memory (stack/heap), multi-dimensional arrays/vectors, decomposing problems and develop abstractions,OOP concepts (e.g., objects, classes, encapsulation, polymorphism, and inheritance).
+ ### Skills :
+ Write programs, data represention in memory (stack/heap), multi-dimensional arrays/vectors, decomposing problems and develop abstractions,OOP concepts (e.g., objects, classes, encapsulation, polymorphism, and inheritance).
  
- **Minor Projects :** 
+ ### Minor Projects :
 * [Project 0 : Writing a paper: "Milestones in the History of Computing"](https://github.com/mfaramarzi/Programming_with_C-/blob/main/Assignment_0/CSC211_-_Assignment_0__1_.pdf)
 * [Project 1 : Algorithms, Problem Design, Pseudo-code, branching,](https://github.com/mfaramarzi/Programming_with_C-/tree/main/Assignment_1)
 * [Project 2 : Loops and Nested loops, Using the Debugger, Functions, Arrays, Strings (C style strings and string objects) ](https://github.com/mfaramarzi/CSC211_Programming_CPP/tree/main/assignment_2)
@@ -54,20 +56,25 @@ In this project a deep Neural Network algorithm (YOLOv4) was applied to 9,053 ro
 
 ## [Data-Structure ](https://github.com/mfaramarzi/CSC212_Data-Structure)
 
-**Major Project :** Implementation of K-D Tree data structure, to read data from an input text file and do operations such as insert and search (ongoing). 
+### Skills :
+computational cost calculations, stacks, queues, Linked List, trees, graphs.
 
-**Skills :** computational cost calculations, stacks, queues, Linked List, trees, graphs.
+### Major Project :
+Implementation of K-D Tree data structure, to read data from an input text file and do operations such as insert and search (ongoing). 
 
- **Minor Projects :** 
+ ### Minor Projects : 
 * [C++ Review : Image_Binarization Project](https://github.com/mfaramarzi/CSC212_Data-Structure/tree/main/HW1_Image_Binarization)
 * [ Classes And Dynamic Arrays In C++ : In the Context Of A Maze Generation Application](https://github.com/mfaramarzi/CSC212_Data-Structure/tree/main/HW2_Maze)
 
 ## [Machine Learning - Fall 2021](https://github.com/mfaramarzi/Programming_with_C-)
 
-**Major Project :** Using NLP to conduct a sentiment analysis on Covid 19-tweets (ongoing). 
+### Skills :
+Supervised Learning, Decision Trees, Model Selection, Bagging, Boosting, Linear Regression/Classification, Gradient Descent, SVM and Nueral Network.  
 
-**Minor Projects :** 
+### Major Project :
+Using NLP to conduct a sentiment analysis on Covid 19-tweets (ongoing). 
 
-**Skills :** Supervised Learning, Decision Trees, Model Selection, Bagging, Boosting, Linear Regression/Classification, Gradient Descent, SVM and Nueral Network.  
+### Minor Projects :
+
 * [KNN](https://github.com/mfaramarzi/CSC461_Machine-Learning/tree/main/HW1_KNN)
 * [Boosting](https://github.com/mfaramarzi/CSC461_Machine-Learning/tree/main/HW3_Boosting)
