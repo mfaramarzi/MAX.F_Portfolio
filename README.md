@@ -43,6 +43,6 @@ In the course of Programming for Data Science with Dr. Sara Brown, I learnt diff
 
 ## [Machine Learning](https://github.com/mfaramarzi/Programming_with_C-)
 As the project for this course, I have been working on Using NLP to conduct a sentiment analysis on Covid 19-tweets.
-In the course of Machine Learning I have been learning about ML techniques such as Supervised Learning, Decision Trees, Model Selection, Bagging, Boosting, Linear Regression and Classification, Gradient Descent, SVM and Nueral Network. and so on.  
+In this course we learn about techniques such as Supervised Learning, Decision Trees, Model Selection, Bagging, Boosting, Linear Regression/Classification, Gradient Descent, SVM and Nueral Network.  
 * [KNN](https://github.com/mfaramarzi/CSC461_Machine-Learning/tree/main/HW1_KNN)
 * [Boosting](https://github.com/mfaramarzi/CSC461_Machine-Learning/tree/main/HW3_Boosting)
