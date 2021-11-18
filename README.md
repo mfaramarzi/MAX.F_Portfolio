@@ -37,12 +37,13 @@ In the course of Programming for Data Science with Dr. Sara Brown, I learnt diff
 * [Project 5 : Classes, Backtracking , and Reading Documentation](https://github.com/mfaramarzi/CSC211_Programming_CPP/tree/main/Assignment_5)
 
 
-## [Data-Structure](https://github.com/mfaramarzi/CSC212_Data-Structure)
+## [Data-Structure - Fall 2021](https://github.com/mfaramarzi/CSC212_Data-Structure)
+stacks, queues, multi-dimensional arrays, trees, graphs, etc.
 * [C++ Review : Image_Binarization Project](https://github.com/mfaramarzi/CSC212_Data-Structure/tree/main/HW1_Image_Binarization)
 * [ Classes And Dynamic Arrays In C++ : In the Context Of A Maze Generation Application](https://github.com/mfaramarzi/CSC212_Data-Structure/tree/main/HW2_Maze)
 
-## [Machine Learning](https://github.com/mfaramarzi/Programming_with_C-)
-As the project for this course, I have been working on Using NLP to conduct a sentiment analysis on Covid 19-tweets.
-In this course we learn about techniques such as Supervised Learning, Decision Trees, Model Selection, Bagging, Boosting, Linear Regression/Classification, Gradient Descent, SVM and Nueral Network.  
+## [Machine Learning - Fall 2021](https://github.com/mfaramarzi/Programming_with_C-)
+As the project for this course, I have been working on Using NLP to conduct a sentiment analysis on Covid 19-tweets. 
+**Methods :** Supervised Learning, Decision Trees, Model Selection, Bagging, Boosting, Linear Regression/Classification, Gradient Descent, SVM and Nueral Network.  
 * [KNN](https://github.com/mfaramarzi/CSC461_Machine-Learning/tree/main/HW1_KNN)
 * [Boosting](https://github.com/mfaramarzi/CSC461_Machine-Learning/tree/main/HW3_Boosting)
