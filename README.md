@@ -16,7 +16,7 @@ In this project a deep Neural Network algorithm (YOLOv4) was applied to 9,053 ro
 
 ![Object Detection Using Trained YOLOv3](/Images/ROAD.PNG)
 
-**2. Using NLP and DNN to conduct a sentiment analysis on Covid 19-tweets (ongoing). **
+[**2. Using NLP and DNN to conduct a sentiment analysis on Covid 19-tweets (ongoing). **](https://github.com/mfaramarzi/CSC461_Machine-Learning/tree/main/NLP-Tweets)
 
 ## [Data Science ](https://github.com/mfaramarzi/CSC310_Data_Science_Intro)
 
