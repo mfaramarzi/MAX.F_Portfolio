@@ -31,6 +31,9 @@ As could be seen in the Figure below, road damages could be detected with accept
 
 
 ## [Programming with C++](https://github.com/mfaramarzi/CSC211_Programming_CPP)
+
+ **Covered Topics :** Write programs, data represention in memory (stack/heap), multi-dimensional arrays/vectors, decomposing problems and develop abstractions,OOP concepts (e.g., objects, classes, encapsulation, polymorphism, and inheritance).
+
 * [Project 0 : Writing a paper: "Milestones in the History of Computing"](https://github.com/mfaramarzi/Programming_with_C-/blob/main/Assignment_0/CSC211_-_Assignment_0__1_.pdf)
 * [Project 1 : Algorithms, Problem Design, Pseudo-code, branching,](https://github.com/mfaramarzi/Programming_with_C-/tree/main/Assignment_1)
 * [Project 2 : Loops and Nested loops, Using the Debugger, Functions, Arrays, Strings (C style strings and string objects) ](https://github.com/mfaramarzi/CSC211_Programming_CPP/tree/main/assignment_2)
@@ -42,7 +45,7 @@ As could be seen in the Figure below, road damages could be detected with accept
 ## [Data-Structure - Fall 2021](https://github.com/mfaramarzi/CSC212_Data-Structure)
 
 As the project in this course, I have been working on implementation of K-D Tree data structure, to read data from an input text file and do operations such as insert and search. 
-**Methods :** stacks, queues, multi-dimensional arrays, trees, graphs, etc.
+**Methods :** computational cost calculations, stacks, queues, Linked List, trees, graphs.
 * [C++ Review : Image_Binarization Project](https://github.com/mfaramarzi/CSC212_Data-Structure/tree/main/HW1_Image_Binarization)
 * [ Classes And Dynamic Arrays In C++ : In the Context Of A Maze Generation Application](https://github.com/mfaramarzi/CSC212_Data-Structure/tree/main/HW2_Maze)
 
