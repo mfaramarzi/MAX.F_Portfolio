@@ -1,7 +1,7 @@
 # MAX (MASOUD) FARAMARZI Portfolio
 mfaramarzi@uri.edu | Watertown, MA, 02472 | www.linkedin.com/in/masoud-faramarzi
 
-## [Deep Learning - Spring 2020](https://www.researchgate.net/profile/M_Faramarzi/publication/342179672_Road_Damage_Detection_and_Classification_Using_Deep_Neural_Networks_YOLOv4_with_Smartphone_Images/links/5f15fe754585151299ab4f38/Road-Damage-Detection-and-Classification-Using-Deep-Neural-Networks-YOLOv4-with-Smartphone-Images.pdf)
+## [Deep Learning](https://www.researchgate.net/profile/M_Faramarzi/publication/342179672_Road_Damage_Detection_and_Classification_Using_Deep_Neural_Networks_YOLOv4_with_Smartphone_Images/links/5f15fe754585151299ab4f38/Road-Damage-Detection-and-Classification-Using-Deep-Neural-Networks-YOLOv4-with-Smartphone-Images.pdf)
 
 **Skills :** CNN, RNN, NLP, Object Classification, Detection and Segmentation, Deep Learning Libraries. 
 
@@ -13,8 +13,9 @@ In this project a deep Neural Network algorithm (YOLOv4) was applied to 9,053 ro
 
 ![Object Detection Using Trained YOLOv3](/Images/ROAD.PNG)
 
+**Major Project :** Using NLP and DNN to conduct a sentiment analysis on Covid 19-tweets (ongoing). 
 
-## [Data Science - Fall 2020](https://github.com/mfaramarzi/CSC310_Data_Science_Intro)
+## [Data Science ](https://github.com/mfaramarzi/CSC310_Data_Science_Intro)
 
 **Skills :** Process, Access, Prepare, Summarize, Visualize, Construct, Classification, Regression, Clustering, Optimize, Unstructured Data ( Loading data, Exploratory Data Analysis, Data Cleaning, Databases, Merging DataFrames, Modeling, Naive Bayes, classification performance metrics, decision trees, cross validation, Regression, Clustering, SVM, parameter tuning, KNN, Model comparison, Text Analysis, Topic Modeling, Deep Learning).
 
@@ -33,7 +34,7 @@ In this project a deep Neural Network algorithm (YOLOv4) was applied to 9,053 ro
 * [NLP](https://github.com/mfaramarzi/CSC310_Data_Science_Intro/tree/main/Assignment12_NLP)
 
 
-## [Programming with C++ - Spring 2021](https://github.com/mfaramarzi/CSC211_Programming_CPP)
+## [Programming with C++ ](https://github.com/mfaramarzi/CSC211_Programming_CPP)
 
  **Skills :** Write programs, data represention in memory (stack/heap), multi-dimensional arrays/vectors, decomposing problems and develop abstractions,OOP concepts (e.g., objects, classes, encapsulation, polymorphism, and inheritance).
  
@@ -46,7 +47,7 @@ In this project a deep Neural Network algorithm (YOLOv4) was applied to 9,053 ro
 * [Project 5 : Classes, Backtracking , and Reading Documentation](https://github.com/mfaramarzi/CSC211_Programming_CPP/tree/main/Assignment_5)
 
 
-## [Data-Structure - Fall 2021](https://github.com/mfaramarzi/CSC212_Data-Structure)
+## [Data-Structure ](https://github.com/mfaramarzi/CSC212_Data-Structure)
 
 **Major Project :** Implementation of K-D Tree data structure, to read data from an input text file and do operations such as insert and search (ongoing). 
 
