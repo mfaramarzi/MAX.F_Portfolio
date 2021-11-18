@@ -1,10 +1,11 @@
 # MAX (MASOUD) FARAMARZI Portfolio
 mfaramarzi@uri.edu | Watertown, MA, 02472 | www.linkedin.com/in/masoud-faramarzi
 
-## [Deep Learning : Object Detection and Classification Using Deep Neural Networks (YOLOv4)](https://www.researchgate.net/profile/M_Faramarzi/publication/342179672_Road_Damage_Detection_and_Classification_Using_Deep_Neural_Networks_YOLOv4_with_Smartphone_Images/links/5f15fe754585151299ab4f38/Road-Damage-Detection-and-Classification-Using-Deep-Neural-Networks-YOLOv4-with-Smartphone-Images.pdf)
+## [Deep Learning](https://www.researchgate.net/profile/M_Faramarzi/publication/342179672_Road_Damage_Detection_and_Classification_Using_Deep_Neural_Networks_YOLOv4_with_Smartphone_Images/links/5f15fe754585151299ab4f38/Road-Damage-Detection-and-Classification-Using-Deep-Neural-Networks-YOLOv4-with-Smartphone-Images.pdf)
 
-In this study TensorFlow implementation of tiny-YOLOv2, Dark-net Neural Networks YOLOv3, tiny-YOLOv3 and YOLOv4 were used to train a road damage detection model with the data set provided by the IEEE Big-data Cup Challenge, and results were compared in the term of the accuracy and runtime speed with other similar studies using different models.
-As could be seen in the Figure below, road damages could be detected with acceptable precision, however it still could be improved. One way of improvement is using deeper neural networks such as state of Art Scaled-YOLOv4. Another way is using data augmentation to increase the number samples in unbalanced classes.
+**Project :** Object Detection and Classification Using Deep Neural Networks (YOLOv4)
+
+In this project a deep Neural Network algorithm (YOLOv4) was applied to 9,053 road images to train and test road damage detection, classification and segmentation models. 
 
 ![mAP and Loss vs Iterations (Tiny-YOLOv3)](/Images/Training.PNG)
 
@@ -44,13 +45,15 @@ As could be seen in the Figure below, road damages could be detected with accept
 
 ## [Data-Structure - Fall 2021](https://github.com/mfaramarzi/CSC212_Data-Structure)
 
-As the project in this course, I have been working on implementation of K-D Tree data structure, to read data from an input text file and do operations such as insert and search. 
+**Project :** Implementation of K-D Tree data structure, to read data from an input text file and do operations such as insert and search. 
+
 **Methods :** computational cost calculations, stacks, queues, Linked List, trees, graphs.
 * [C++ Review : Image_Binarization Project](https://github.com/mfaramarzi/CSC212_Data-Structure/tree/main/HW1_Image_Binarization)
 * [ Classes And Dynamic Arrays In C++ : In the Context Of A Maze Generation Application](https://github.com/mfaramarzi/CSC212_Data-Structure/tree/main/HW2_Maze)
 
 ## [Machine Learning - Fall 2021](https://github.com/mfaramarzi/Programming_with_C-)
-As the project for this course, I have been working on Using NLP to conduct a sentiment analysis on Covid 19-tweets. 
+
+**Project :** Using NLP to conduct a sentiment analysis on Covid 19-tweets. 
 
 **Methods :** Supervised Learning, Decision Trees, Model Selection, Bagging, Boosting, Linear Regression/Classification, Gradient Descent, SVM and Nueral Network.  
 * [KNN](https://github.com/mfaramarzi/CSC461_Machine-Learning/tree/main/HW1_KNN)
