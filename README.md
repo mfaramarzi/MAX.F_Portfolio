@@ -45,7 +45,7 @@ In this project a deep Neural Network algorithm (YOLOv4) was applied to 9,053 ro
 
 ## [Data-Structure - Fall 2021](https://github.com/mfaramarzi/CSC212_Data-Structure)
 
-**Project :** Implementation of K-D Tree data structure, to read data from an input text file and do operations such as insert and search. 
+**Project :** Implementation of K-D Tree data structure, to read data from an input text file and do operations such as insert and search (ongoing). 
 
 **Methods :** computational cost calculations, stacks, queues, Linked List, trees, graphs.
 * [C++ Review : Image_Binarization Project](https://github.com/mfaramarzi/CSC212_Data-Structure/tree/main/HW1_Image_Binarization)
@@ -53,7 +53,7 @@ In this project a deep Neural Network algorithm (YOLOv4) was applied to 9,053 ro
 
 ## [Machine Learning - Fall 2021](https://github.com/mfaramarzi/Programming_with_C-)
 
-**Project :** Using NLP to conduct a sentiment analysis on Covid 19-tweets. 
+**Project :** Using NLP to conduct a sentiment analysis on Covid 19-tweets (ongoing). 
 
 **Methods :** Supervised Learning, Decision Trees, Model Selection, Bagging, Boosting, Linear Regression/Classification, Gradient Descent, SVM and Nueral Network.  
 * [KNN](https://github.com/mfaramarzi/CSC461_Machine-Learning/tree/main/HW1_KNN)
