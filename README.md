@@ -8,7 +8,7 @@ CNN, RNN, NLP, Object Classification, Detection and Segmentation, Deep Learning 
 
 ### Major Projects :
 
-**1. [Object Detection and Classification Using Deep Neural Networks (YOLOv4)**](https://www.researchgate.net/profile/M_Faramarzi/publication/342179672_Road_Damage_Detection_and_Classification_Using_Deep_Neural_Networks_YOLOv4_with_Smartphone_Images/links/5f15fe754585151299ab4f38/Road-Damage-Detection-and-Classification-Using-Deep-Neural-Networks-YOLOv4-with-Smartphone-Images.pdf)
+ [**1. Object Detection and Classification Using Deep Neural Networks (YOLOv4)**](https://www.researchgate.net/profile/M_Faramarzi/publication/342179672_Road_Damage_Detection_and_Classification_Using_Deep_Neural_Networks_YOLOv4_with_Smartphone_Images/links/5f15fe754585151299ab4f38/Road-Damage-Detection-and-Classification-Using-Deep-Neural-Networks-YOLOv4-with-Smartphone-Images.pdf)
 
 In this project a deep Neural Network algorithm (YOLOv4) was applied to 9,053 road images to train and test road damage detection, classification and segmentation models. 
 
