@@ -24,7 +24,7 @@ In this project a deep Neural Network algorithm (YOLOv4) was applied to 9,053 ro
 Process, Access, Prepare, Summarize, Visualize, Construct, Classification, Regression, Clustering, Optimize, Unstructured Data ( Loading data, Exploratory Data Analysis, Data Cleaning, Databases, Merging DataFrames, Modeling, Naive Bayes, classification performance metrics, decision trees, cross validation, Regression, Clustering, SVM, parameter tuning, KNN, Model comparison, Text Analysis, Topic Modeling, Deep Learning).
 
 ### Minor Projects :
-* [Python Grdader](https://github.com/mfaramarzi/CSC310_Data_Science_Intro/blob/main/Assignment1_Python_Review/portfolio.pdf)
+* [Python Grader](https://github.com/mfaramarzi/CSC310_Data_Science_Intro/blob/main/Assignment1_Python_Review/portfolio.pdf)
 * [Accessing_Data](https://github.com/mfaramarzi/CSC310_Data_Science_Intro/tree/main/Assignment2_Accessing_Data)
 * [EAD](https://github.com/mfaramarzi/CSC310_Data_Science_Intro/tree/main/Assignment3_EAD)
 * [Preparing Data](https://github.com/mfaramarzi/CSC310_Data_Science_Intro/tree/main/Assignment4-preparing_Data)
