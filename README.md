@@ -40,6 +40,7 @@ Process, Access, Prepare, Summarize, Visualize, Construct, Classification, Regre
 ## Programming with Python 
 
  ### Skills :
+ 
  Input and Output, Loop, Functions, String, List, Dictionary, Set, Tuple, OOP, JSON, Random Data Generation.
 
 ### Major Project :
