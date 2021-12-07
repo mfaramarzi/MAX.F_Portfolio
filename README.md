@@ -40,7 +40,7 @@ Process, Access, Prepare, Summarize, Visualize, Construct, Classification, Regre
 ## [Programming with Python ](https://github.com/mfaramarzi/Internship_Summer2021)
 
 ### Major Project :
-[**Developing Python programs, for Auto-Grading Server**](https://github.com/mfaramarzi/CSC212-KdTree-lementation)
+[**Developing Python programs, for Auto-Grading Server**](https://github.com/mfaramarzi/Internship_Summer2021)
 
 ## [Programming with C++ ](https://github.com/mfaramarzi/CSC211_Programming_CPP)
 
