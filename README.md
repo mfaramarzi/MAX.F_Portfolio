@@ -37,7 +37,10 @@ Process, Access, Prepare, Summarize, Visualize, Construct, Classification, Regre
 * [Model Selection](https://github.com/mfaramarzi/CSC310_Data_Science_Intro/tree/main/Assignment11-Clustering)
 * [NLP](https://github.com/mfaramarzi/CSC310_Data_Science_Intro/tree/main/Assignment12_NLP)
 
-## [Programming with Python ](https://github.com/mfaramarzi/Internship_Summer2021)
+## [Programming with Python ]
+
+ ### Skills :
+ Input and Output, Loop, Functions, String, List, Dictionary, Set, Tuple, OOP, JSON, Random Data Generation.
 
 ### Major Project :
 [**Developing Python programs, for Auto-Grading Server**](https://github.com/mfaramarzi/Internship_Summer2021)
