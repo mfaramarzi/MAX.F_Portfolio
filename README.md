@@ -42,7 +42,7 @@ Process, Access, Prepare, Summarize, Visualize, Construct, Classification, Regre
 ### Major Project :
 [**Developing Python programs, for Auto-Grading Server**](https://github.com/mfaramarzi/Internship_Summer2021)
 
-### Minor Projects :
+### Minor Projects :(https://github.com/mfaramarzi/Programming_Python)
 
 ## [Programming with C++ ](https://github.com/mfaramarzi/CSC211_Programming_CPP)
 
