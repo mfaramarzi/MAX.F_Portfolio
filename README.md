@@ -18,7 +18,7 @@ In this project a deep Neural Network algorithm (YOLOv4) was applied to 9,053 ro
 
 In this project initially a YOLOv2 (object detection model) was used to crop lanes from the roadway images captured top-down, then transfer learning technique was applied to UNET (object segmentation model) trained on retinals, to detect crackes on the cropped road images. 
 
-![Object Detection Using Trained YOLOv3](/Images/UNET_Transfer_Learning.png)
+![Object Detection Using Trained YOLOv3](/Images/UNET_Transfer_Learn.png)
 
 [**3. Using NLP and DNN to conduct a sentiment analysis on Covid 19-tweets**](https://github.com/mfaramarzi/CSC461_Machine-Learning/tree/main/NLP-Tweets)
 
