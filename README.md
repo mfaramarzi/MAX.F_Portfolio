@@ -1,7 +1,7 @@
 # MAX (MASOUD) FARAMARZI
 mfaramarzi@uri.edu | Watertown, MA, 02472 | www.linkedin.com/in/masoud-faramarzi
 
-## [Deep Learning](https://github.com/mfaramarzi/CSC691-DeepLearning)
+## [Deep Learning]
 
 ### Skills : 
 CNN, RNN, NLP, Object Classification, Detection and Segmentation, Deep Learning Libraries. 
