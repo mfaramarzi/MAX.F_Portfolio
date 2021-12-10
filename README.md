@@ -15,6 +15,7 @@ In this project a deep Neural Network algorithm (YOLOv4) was applied to 9,053 ro
 ![Object Detection Using Trained YOLOv3](/Images/ROAD.PNG)
 
 [**2. Road Damage Segmentation Using UNET**](https://github.com/mfaramarzi/Image-Segmentation-UNET)
+
 ![Object Detection Using Trained YOLOv3](/Images/combo.png)
 
 [**3. Using NLP and DNN to conduct a sentiment analysis on Covid 19-tweets**](https://github.com/mfaramarzi/CSC461_Machine-Learning/tree/main/NLP-Tweets)
