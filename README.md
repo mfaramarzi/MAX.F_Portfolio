@@ -18,7 +18,7 @@ In this project initially a YOLOv2 (object detection model) was used to crop lan
 
 In this project a deep Neural Network algorithm (YOLOv4) was applied to 9,053 road images to train and test road damage detection and classification models. 
 
-![Object Detection Using Trained YOLOv3](/Images/Detection.png)
+![Object Detection Using Trained YOLOv3](/Images/Obj_Detection.png)
 
 [**3. Using NLP and DNN to conduct a sentiment analysis on Covid 19-tweets**](https://github.com/mfaramarzi/CSC461_Machine-Learning/tree/main/NLP-Tweets)
 
