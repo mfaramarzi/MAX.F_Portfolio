@@ -16,7 +16,7 @@ In this project a deep Neural Network algorithm (YOLOv4) was applied to 9,053 ro
 
 [**2. Road Damage Segmentation Using UNET**](https://github.com/mfaramarzi/Image-Segmentation-UNET)
 
-In this project initially a YOLOv2 (object detection model) was used to crop lanes from the roadway images captured top-down, then transfer learning technique was applied to UNET (object segmentation model) trained on retinals, to detect crackes on the cropped road images. 
+In this project initially a YOLOv2 (object detection model) was used to crop lanes from the roadway images captured top-down, then transfer learning technique was applied to a UNET model (pre-trained to segment retinals blood vessels), to segment crackes on the cropped road images. 
 
 ![Object Detection Using Trained YOLOv3](/Images/UNET_Transfer_Learn.png)
 
