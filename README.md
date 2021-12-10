@@ -10,11 +10,13 @@ CNN, RNN, NLP, Object Classification, Detection and Segmentation, Deep Learning 
 
  [**1. Object Detection and Classification Using Deep Neural Networks (YOLOv4)**](https://www.researchgate.net/profile/M_Faramarzi/publication/342179672_Road_Damage_Detection_and_Classification_Using_Deep_Neural_Networks_YOLOv4_with_Smartphone_Images/links/5f15fe754585151299ab4f38/Road-Damage-Detection-and-Classification-Using-Deep-Neural-Networks-YOLOv4-with-Smartphone-Images.pdf)
 
-In this project a deep Neural Network algorithm (YOLOv4) was applied to 9,053 road images to train and test road damage detection, classification and segmentation models. 
+In this project a deep Neural Network algorithm (YOLOv4) was applied to 9,053 road images to train and test road damage detection and classification models. 
 
 ![Object Detection Using Trained YOLOv3](/Images/cropped.png)
 
 [**2. Road Damage Segmentation Using UNET**](https://github.com/mfaramarzi/Image-Segmentation-UNET)
+
+In this project initially a YOLOv2 (object detection model) was used to crop lanes from the roadway images captured top-down, then transfer learning technique was applied to UNET (object segmentation model) trained on retinals, to detect crackes on the cropped road images. 
 
 ![Object Detection Using Trained YOLOv3](/Images/combo.png)
 
