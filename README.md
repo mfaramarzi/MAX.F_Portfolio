@@ -75,7 +75,7 @@ Process, Access, Prepare, Summarize, Visualize, Construct, Classification, Regre
 computational cost calculations, stacks, queues, Linked List, trees, graphs.
 
 ### Major Project :
-[**Implementation of K-D Tree data structure, to read data from an input text file and do operations such as insert and search (ongoing)**](https://github.com/mfaramarzi/CSC212-KdTree-lementation)
+[**Implementation of K-D Tree data structure, to read data from an input text file and do operations such as insert and search**](https://github.com/mfaramarzi/CSC212-KdTree-lementation)
 
  ### Minor Projects : 
 * [C++ Review : Image_Binarization Project](https://github.com/mfaramarzi/CSC212_Data-Structure/tree/main/HW1_Image_Binarization)
