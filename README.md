@@ -21,7 +21,7 @@ In this project a deep Neural Network algorithm (YOLOv4) was applied to 9,053 ro
 ![Object Detection Using Trained YOLOv3](/Images/Obj_Detection.png)
 
 
-## [Machine Learning ](https://github.com/mfaramarzi/Programming_with_C-)
+## [Machine Learning ](https://github.com/mfaramarzi/CSC461_Machine-Learning)
 
 ### Skills :
 Supervised Learning, Decision Trees, Model Selection, Bagging, Boosting, Linear Regression/Classification, Gradient Descent, SVM and Nueral Network.  
