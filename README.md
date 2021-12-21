@@ -29,10 +29,14 @@ Supervised Learning, Decision Trees, Model Selection, Bagging, Boosting, Linear 
 ### Major Project :
 [**1. Using NLP and DNN to conduct a sentiment analysis on Covid 19-tweets**](https://github.com/mfaramarzi/CSC461_Machine-Learning/tree/main/NLP-Tweets)
 
+* A language model pretrained on wikitext was used in the transfer learning to finetune that and generate a language model customized for tweet text.
+* Using the customized language model a classifier model was trained on sentiment-labeled general tweets.
+  
 <p align="center">
   <img src="https://github.com/mfaramarzi/CSC461_Machine-Learning/blob/main/NLP-Tweets/images/NLP2.png" />
 </p>
 
+Figure below shows number of Covid vaccination tweets versus date, seperated by their sentiment (Nuetral, Possitive and Negative).
 
 <p align="center">
   <img src="https://github.com/mfaramarzi/CSC461_Machine-Learning/blob/main/NLP-Tweets/images/timeline.png" />
