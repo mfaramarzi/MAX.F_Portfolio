@@ -32,7 +32,7 @@ Supervised Learning, Decision Trees, Model Selection, Bagging, Boosting, Linear 
 * A language model pretrained on wikitext was used in the transfer learning to finetune that and generate a language model customized for tweet text.
 * Using the customized language model a classifier model was trained on sentiment-labeled general tweets.
   
-  ![NLP Pipeline](/Images/NLP2.png)
+![NLP Pipeline](/Images/NLP2.png)
   
 <p align="center">
   <img src="https://github.com/mfaramarzi/CSC461_Machine-Learning/blob/main/NLP-Tweets/images/NLP2.png" />
