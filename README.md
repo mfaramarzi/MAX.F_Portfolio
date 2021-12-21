@@ -33,10 +33,6 @@ Supervised Learning, Decision Trees, Model Selection, Bagging, Boosting, Linear 
 * Using the customized language model a classifier model was trained on sentiment-labeled general tweets.
   
 ![NLP Pipeline](/Images/NLP2.png)
-  
-<p align="center">
-  <img src="https://github.com/mfaramarzi/CSC461_Machine-Learning/blob/main/NLP-Tweets/images/NLP2.png" />
-</p>
 
 Figure below shows number of Covid vaccination tweets versus date, seperated by their sentiment (Nuetral, Possitive and Negative).
 
