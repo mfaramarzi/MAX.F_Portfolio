@@ -28,7 +28,7 @@ In this project a deep Neural Network algorithm (YOLOv4) was applied to 9,053 ro
 Supervised Learning, Decision Trees, Model Selection, Bagging, Boosting, Linear Regression/Classification, Gradient Descent, SVM and Nueral Network.  
 
 ### Major Project :
-[**Using NLP to conduct a sentiment analysis on Covid 19-tweets (ongoing)**](https://github.com/mfaramarzi/CSC461_Machine-Learning/tree/main/NLP-Tweets)
+[**Using NLP to conduct a sentiment analysis on Covid 19-tweets **](https://github.com/mfaramarzi/CSC461_Machine-Learning/tree/main/NLP-Tweets)
 
 ### Minor Projects :
 
