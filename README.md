@@ -32,7 +32,7 @@ Supervised Learning, Decision Trees, Model Selection, Bagging, Boosting, Linear 
 * A language model pretrained on wikitext was used in the transfer learning to finetune that and generate a language model customized for tweet text.
 * Using the customized language model a classifier model was trained on sentiment-labeled general tweets.
   
-![NLP Pipeline](/Images/NLP2.png)
+![NLP Pipeline](/Images/NLP.png)
 
 Figure below shows number of Covid vaccination tweets versus date, seperated by their sentiment (Nuetral, Possitive and Negative).
 
