@@ -33,6 +33,11 @@ Supervised Learning, Decision Trees, Model Selection, Bagging, Boosting, Linear 
   <img src="https://github.com/mfaramarzi/CSC461_Machine-Learning/blob/main/NLP-Tweets/images/NLP2.png" />
 </p>
 
+
+<p align="center">
+  <img src="https://github.com/mfaramarzi/CSC461_Machine-Learning/blob/main/NLP-Tweets/images/timeline.png" />
+</p>
+
 ### Minor Projects :
 
 * [KNN](https://github.com/mfaramarzi/CSC461_Machine-Learning/tree/main/HW1_KNN)
