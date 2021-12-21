@@ -22,7 +22,18 @@ In this project a deep Neural Network algorithm (YOLOv4) was applied to 9,053 ro
 
 [**3. Using NLP and DNN to conduct a sentiment analysis on Covid 19-tweets**](https://github.com/mfaramarzi/CSC461_Machine-Learning/tree/main/NLP-Tweets)
 
+## [Machine Learning ](https://github.com/mfaramarzi/Programming_with_C-)
 
+### Skills :
+Supervised Learning, Decision Trees, Model Selection, Bagging, Boosting, Linear Regression/Classification, Gradient Descent, SVM and Nueral Network.  
+
+### Major Project :
+[**Using NLP to conduct a sentiment analysis on Covid 19-tweets (ongoing)**](https://github.com/mfaramarzi/CSC461_Machine-Learning/tree/main/NLP-Tweets)
+
+### Minor Projects :
+
+* [KNN](https://github.com/mfaramarzi/CSC461_Machine-Learning/tree/main/HW1_KNN)
+* [Boosting](https://github.com/mfaramarzi/CSC461_Machine-Learning/tree/main/HW3_Boosting)
 
 ## [Data Science ](https://github.com/mfaramarzi/CSC310_Data_Science_Intro)
 
@@ -86,15 +97,3 @@ computational cost calculations, stacks, queues, Linked List, trees, graphs.
 
 
 
-## [Machine Learning ](https://github.com/mfaramarzi/Programming_with_C-)
-
-### Skills :
-Supervised Learning, Decision Trees, Model Selection, Bagging, Boosting, Linear Regression/Classification, Gradient Descent, SVM and Nueral Network.  
-
-### Major Project :
-[**Using NLP to conduct a sentiment analysis on Covid 19-tweets (ongoing)**](https://github.com/mfaramarzi/CSC461_Machine-Learning/tree/main/NLP-Tweets)
-
-### Minor Projects :
-
-* [KNN](https://github.com/mfaramarzi/CSC461_Machine-Learning/tree/main/HW1_KNN)
-* [Boosting](https://github.com/mfaramarzi/CSC461_Machine-Learning/tree/main/HW3_Boosting)
