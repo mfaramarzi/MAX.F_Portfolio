@@ -82,6 +82,7 @@ computational cost calculations, stacks, queues, Linked List, trees, graphs.
  ### Minor Projects : 
 * [C++ Review : Image_Binarization Project](https://github.com/mfaramarzi/CSC212_Data-Structure/tree/main/HW1_Image_Binarization)
 * [ Classes And Dynamic Arrays In C++ : In the Context Of A Maze Generation Application](https://github.com/mfaramarzi/CSC212_Data-Structure/tree/main/HW2_Maze)
+* [ Arithmetic Expression- Infix And Postfix Notation](https://github.com/mfaramarzi/CSC212_Data-Structure/tree/main/HW-4-Arithmetic-Expressions)
 
 
 
