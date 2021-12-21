@@ -29,7 +29,9 @@ Supervised Learning, Decision Trees, Model Selection, Bagging, Boosting, Linear 
 ### Major Project :
 [**1. Using NLP and DNN to conduct a sentiment analysis on Covid 19-tweets**](https://github.com/mfaramarzi/CSC461_Machine-Learning/tree/main/NLP-Tweets)
 
-![Covid Vaccination Tweet Timeline](/Images/NLP.png)
+<p align="center">
+  <img src="https://github.com/mfaramarzi/CSC461_Machine-Learning/blob/main/NLP-Tweets/images/NLP2.png" />
+</p>
 
 ### Minor Projects :
 
