@@ -34,10 +34,6 @@ Supervised Learning, Decision Trees, Model Selection, Bagging, Boosting, Linear 
   
 ![NLP Pipeline](/Images/NLP2.png)
 
-Figure below shows number of Covid vaccination tweets versus date, seperated by their sentiment (Nuetral, Possitive and Negative).
-
-![NLP Pipeline](/Images/NLP.png)
-
 
 ### Minor Projects :
 
